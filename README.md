@@ -1,4 +1,5 @@
 # Coursera_Capstone
+View Code through the "NBViewer_Main" file above.
 # Introduction: 
 Analyzing and Exploring the Toronto neighborhoods in Toronto, by using geocoder(a google api) and also using K-means clustering to distinguish the top 5 venues. 
 
